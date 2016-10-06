@@ -7,7 +7,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "jaumard",
+  "homepage": "https://github.com/jaumard/trails-api",
+  "repository": "https://github.com/jaumard/trails-api",
+  "author": {
+    "name": "Jimmy Aumard",
+    "email": "jimmy.aumard@gmail.com",
+    "url": "https://github.com/jaumard"
+  },
   "license": "MIT",
   "dependencies": {
     "trails": "^1.1.0",
