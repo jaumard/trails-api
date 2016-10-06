@@ -13,6 +13,13 @@ Trails classes with typings definitions for TS usage
 npm i --save trails-api
 ```
 
+Classes that are exported by this module and use in TS: 
+- Controller from trails-controller
+- Service from trails-service
+- Model from trails-model
+- Policy from trails-policy
+- TrailsApp from trails
+
 ### In JS
 ```
 'use strict'
