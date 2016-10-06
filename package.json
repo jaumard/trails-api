@@ -1,0 +1,19 @@
+{
+  "name": "trails-api",
+  "version": "1.0.3",
+  "description": "Trails classes with typings definitions",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jaumard",
+  "license": "MIT",
+  "dependencies": {
+    "trails": "^1.1.0",
+    "trails-controller": "^1.0.0-beta-2",
+    "trails-model": "^1.0.0-beta-2",
+    "trails-policy": "^1.0.1",
+    "trails-service": "^1.0.0-beta-2"
+  }
+}
