@@ -35,7 +35,7 @@ declare module "trails-api" {
     routes: { path: string, config: {app?: any} }[];
     services: any;
     sitemap: any;
-
+    orm: any;
     pkg: any;
     config: any;
     api: any;

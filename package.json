@@ -1,6 +1,6 @@
 {
   "name": "trails-api",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Trails classes with typings definitions",
   "main": "index.js",
   "typings": "index.d.ts",
